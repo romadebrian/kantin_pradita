@@ -10,4 +10,4 @@ Fitur
 
 Yang harus di kerjakan
 - Membuat tampilan memesan makanan untuk pelanggan yang nantinya di jadikan struk
-- Membuat logs login untuk kemanan (id, IP, MAC Address)
+- Membuat logs login untuk kemanan (id, IP, MAC Addres)
