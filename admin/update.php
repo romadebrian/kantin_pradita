@@ -1,5 +1,7 @@
-<?php 
+<?php
+
 include 'config.php';
+
 $id=$_POST['id'];
 $nama=$_POST['nama'];
 $jenis=$_POST['jenis'];
