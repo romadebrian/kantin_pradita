@@ -37,4 +37,4 @@ Fungsi struk buat tenant itu buat nukerin jd uang, pas close order bakal di itun
 Question & answer 3 :
 Gimana kalo tenant pengen nukerin struk jd uang sblm close operation?
 Struk gabisa di tukerin sblm close operation, jadi tenant harus nunggu sampe close operation jam 5 sore buat di itung report harian per tenant.
-Kalo tenant nukerin struk jam 3, otomatis sistem kasir nya juga close, yg berarti gabisa ada yg order lg kalo udh close
+Kalo tenant nukerin struk jam 3, otomatis sistem kasir nya juga close, yg berarti gabisa ada yg order lg kalo udh 
