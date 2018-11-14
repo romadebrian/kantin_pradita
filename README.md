@@ -1,5 +1,5 @@
-# aplikasi_penjualan_php_mysql
-Aplikasi penjualan sederhana dengan php dan mysql
+# aplikasi kantin Pradita
+Aplikasi kantin sederhana dengan php dan mysql
 
 Fitur
 - Login
